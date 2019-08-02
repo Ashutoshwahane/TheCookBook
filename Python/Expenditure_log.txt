@@ -1,0 +1,35 @@
+Time is  : 2019-05-28 22:31:02.000797
+Total Money Paid : 100 RS
+	a 	99
+	d 	1
+Remaining Money after Paying :0 RS
+
+>>>a Gives 99 RS
+Total Expenditure is : 50 RS Then
+a will Take 49 RS
+
+>>>d Gives 1 RS
+Total Expenditure is : 50 RS Then
+d will Give 49 RS
+
+
+Time is  : 2019-07-10 11:31:17.020387
+Total Money Paid : 100 RS
+	ashu 	20
+	shiv 	20
+	mahesh 	60
+Remaining Money after Paying :0 RS
+
+>>>ashu Gives 20 RS
+Total Expenditure is : 33 RS Then
+ashu will Give 13 RS
+
+>>>shiv Gives 20 RS
+Total Expenditure is : 33 RS Then
+shiv will Give 13 RS
+
+>>>mahesh Gives 60 RS
+Total Expenditure is : 33 RS Then
+mahesh will Take 27 RS
+
+

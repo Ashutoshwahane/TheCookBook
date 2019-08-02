@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502476741 source:h:\c++ assignments\vowel-class\main.cpp
+	<iostream>
+	<conio.h>
+

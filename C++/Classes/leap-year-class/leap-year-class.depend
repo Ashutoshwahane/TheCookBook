@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502390920 source:h:\c++ assignments\leap-year-class\main.cpp
+	<iostream>
+	<conio.h>
+

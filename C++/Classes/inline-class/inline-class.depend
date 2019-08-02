@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502390608 source:h:\c++ assignments\inline-class\main.cpp
+	<iostream>
+	<conio.h>
+

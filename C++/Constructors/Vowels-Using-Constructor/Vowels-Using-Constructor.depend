@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505288846 source:h:\c++ assignments\constructors\vowels-using-constructor\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+Deadlock
+a deadlock occour when two threads have a circular dependency on 
+a pair of synchronised object
+ex. { 
+	when one thred enter moniter on object a and other thread enters moniter
+	on object b if thread in a attempts to call any synchronised on b then deadlock occour
+    }

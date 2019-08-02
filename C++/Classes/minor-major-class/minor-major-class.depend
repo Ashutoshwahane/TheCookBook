@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502391790 source:h:\c++ assignments\minor-major-class\main.cpp
+	<iostream>
+	<conio.h>
+
